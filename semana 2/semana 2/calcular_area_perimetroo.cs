@@ -64,4 +64,3 @@ una altura de 7 unidades
  Console.WriteLine("Perímetro: " + rectangulo.CalcularPerimetro());
  }
 }
-

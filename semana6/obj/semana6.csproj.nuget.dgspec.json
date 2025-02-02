@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana 2\\semana 2\\semana 2.csproj": {}
+    "C:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana6\\semana6.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana 2\\semana 2\\semana 2.csproj": {
+    "C:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana6\\semana6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana 2\\semana 2\\semana 2.csproj",
-        "projectName": "semana 2",
-        "projectPath": "c:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana 2\\semana 2\\semana 2.csproj",
+        "projectUniqueName": "C:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana6\\semana6.csproj",
+        "projectName": "semana6",
+        "projectPath": "C:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana6\\semana6.csproj",
         "packagesPath": "C:\\Users\\MASTER\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana 2\\semana 2\\obj\\",
+        "outputPath": "C:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MASTER\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana 7\\semana 7.csproj",
-      "projectName": "semana 7",
-      "projectPath": "C:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana 7\\semana 7.csproj",
+      "projectUniqueName": "C:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana6\\semana6.csproj",
+      "projectName": "semana6",
+      "projectPath": "C:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana6\\semana6.csproj",
       "packagesPath": "C:\\Users\\MASTER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana 7\\obj\\",
+      "outputPath": "C:\\Users\\MASTER\\Documents\\ING. TECNOLOGIAS DE LA INFORMACION\\3er SEMESTRE\\PRIMER PARIAL S3\\ESTRUTURA DE DATOS\\Proyectos\\semana6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MASTER\\AppData\\Roaming\\NuGet\\NuGet.Config"
