@@ -1,4 +1,6 @@
-﻿class Program
+﻿using System.Threading.Tasks.Dataflow;
+
+class Program
 {
     // Método para resolver las Torres de Hanói iterativamente utilizando una pila
     static void ResolverTorresDeHanoi(int discos, string inicio, string fin, string apoyo)
@@ -50,4 +52,4 @@
         Console.WriteLine($"Resolviendo Torres de Hanói para {discos} discos:");
         ResolverTorresDeHanoi(discos, inicio, fin, apoyo);
     }
-}
+} 
